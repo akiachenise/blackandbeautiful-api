@@ -1,2 +1,2 @@
 # mindfulmelanin-api
-Black and Beautiful Affimations API
+Mindful Melanin Affimations API
