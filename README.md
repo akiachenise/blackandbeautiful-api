@@ -1,2 +1,2 @@
-# blackandbeautiful-api
+# mindfulmelanin-api
 Black and Beautiful Affimations API
