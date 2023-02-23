@@ -1,2 +1,2 @@
-# mindfulmelanin-api
+# mindful-melanin-api
 Mindful Melanin Affimations API
